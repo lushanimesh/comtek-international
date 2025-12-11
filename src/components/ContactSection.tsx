@@ -7,7 +7,7 @@ import { useToast } from "@/hooks/use-toast";
 
 // **IMPORTANT: Replace this with your actual Web3Forms Access Key**
 // It's highly recommended to use an environment variable for this key (e.g., process.env.NEXT_PUBLIC_WEB3FORMS_KEY)
-const WEB3FORMS_ACCESS_KEY = "fd425c9f-2afd-4dc8-83f1-cac503094c68"; 
+const WEB3FORMS_ACCESS_KEY = "804ac5a2-a0d6-4742-92e2-959840082d8c"; 
 
 const ContactSection = () => {
   const { toast } = useToast();
